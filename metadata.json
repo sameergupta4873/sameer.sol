@@ -1,0 +1,12 @@
+{
+    "name": "Sameer",
+    "symbol": "SAM",
+    "description": "Sameer is a developer, and this is the solana spl-token which is a test token for the developer portal.",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
