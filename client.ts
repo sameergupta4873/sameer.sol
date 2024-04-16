@@ -29,7 +29,7 @@ import {
 const connection = new Connection(clusterApiUrl("devnet"), "confirmed");
 
 // Playground wallet
-const secret = [167,144,42,104,242,52,98,117,34,50,236,152,29,76,54,160,248,198,157,221,24,243,192,152,142,103,122,183,151,85,22,236,64,88,15,129,138,157,169,218,87,134,44,60,88,200,5,154,214,42,227,18,57,24,83,34,150,77,54,170,17,130,216,105]; // 👈 Replace with your secret
+const secret = [0...0]; // 👈 Replace with your secret
 const payer = Keypair.fromSecretKey(new Uint8Array(secret));
 console.log("Payer Address:", payer.publicKey.toString());
 
