@@ -1,0 +1,17 @@
+/node_modules
+/dist
+/coverage
+/.nyc_output
+/.eslintcache
+/.cache
+/.next
+/package-lock.json
+
+# MISC
+/.sass-cache
+/.vscode
+/.idea
+/.DS_Store
+/*.log
+/*.log.*
+/*.log-*
